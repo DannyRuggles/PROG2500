@@ -1,0 +1,15 @@
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\bin\Debug\net8.0\CSharp Basics.exe
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\bin\Debug\net8.0\CSharp Basics.deps.json
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\bin\Debug\net8.0\CSharp Basics.runtimeconfig.json
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\bin\Debug\net8.0\CSharp Basics.dll
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\bin\Debug\net8.0\CSharp Basics.pdb
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.AssemblyInfoInputs.cache
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.AssemblyInfo.cs
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.csproj.CoreCompileInputs.cache
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.sourcelink.json
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.dll
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\refint\CSharp Basics.dll
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.pdb
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\CSharp Basics.genruntimeconfig.cache
+D:\Documents\school\year2 2nd sem\c#\Assignment1\CsharpDemo\A01\CSharp Basics\obj\Debug\net8.0\ref\CSharp Basics.dll
