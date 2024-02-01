@@ -1,3 +1,8 @@
+/*
+Author: Danny Ruggles
+Date: 2/1/2024
+Purpose: Demonstrate C# basic features
+*/
 ﻿using System;
 
 namespace CSharp_Basics
