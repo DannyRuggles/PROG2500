@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+Author: Danny Ruggles
+Date: 2/1/2024
+Purpose: Demonstrate C# basic features
+*/
+using System;
 
 namespace CSharp_Basics
 {
@@ -8,14 +13,14 @@ namespace CSharp_Basics
         {
             // data types 
             int num = 10;// integer type
-
+            short snum = 4; // short type
             float f = 3.14f;// float type needs 'f' at the end
             double d = 3.14; // double
             char c = 'c'; // char
             string s = "Hello"; // string
             bool b = true; // bool
 
-            Console.WriteLine("num: " + num + " float: " + f + " double: " + d + " char: " + c + " string: " + s + " bool: " + b);
+            Console.WriteLine("num: " + num + "\n" + "float: " + f + "\n" + "double: " + d + "\n" + "char: " + c + "\n" + "string: " + s + "\n" + "bool: " + b + "\n");
 
             // if else example
             if (num > 5)
@@ -51,6 +56,8 @@ namespace CSharp_Basics
             int mult = num * 2; // multiply
             int div = num / 2; // divide
             int mod = num % 2; // modulus
+
+            Console.WriteLine("short number = " + snum); // short number print
 
             Console.WriteLine("sum = " + sum);
             Console.WriteLine("sub = " + sub);
