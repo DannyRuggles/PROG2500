@@ -8,9 +8,9 @@
     <Window.Resources>
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
     </Window.Resources>
-    <Window.Background>
+    <!--<Window.Background>
         <ImageBrush ImageSource="natu3.png" Stretch="Fill"/>
-    </Window.Background>
+    </Window.Background>-->
 
     <Grid>
         <Grid.RowDefinitions>
