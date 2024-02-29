@@ -9,7 +9,7 @@
         <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter" />
     </Window.Resources>
     <Window.Background>
-        <ImageBrush ImageSource="D:/Documents/school/year2 2nd sem/c#/MP3Player/mp3player/natu3.png" Stretch="Fill"/>
+        <ImageBrush ImageSource="natu3.png" Stretch="Fill"/>
     </Window.Background>
 
     <Grid>
