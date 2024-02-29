@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4A1vzjTwnNmFgz6P4Tbf1ZWsHFsp32Ashq+i1U5+KezubiH0L6+tcivseX382mCThgKVPc+mU9HNsiYBCsg1Aw==",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\school\\year2 2nd sem\\c#\\MP3Player\\mp3test\\mp3player\\mp3player.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Danny Ruugles\\.nuget\\packages\\taglib-sharp-netstandard2.0\\2.1.0\\taglib-sharp-netstandard2.0.2.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
